@@ -1,4 +1,4 @@
-# dice_roll
+# Beautiful flutter roject
 
 A new Flutter project.
 
